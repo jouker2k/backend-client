@@ -18,7 +18,7 @@ websocket-client==0.48.0
 
 # tools
 PyYAML==5.3
-fluent-logger==0.9.4
+fluent-logger==0.9.6
 
 # AES Crypto
 pycryptodome==3.9.4
